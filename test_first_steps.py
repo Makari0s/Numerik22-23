@@ -1,3 +1,6 @@
+"""
+Numerik 22/23 (Jeffrey Bukieda 2430873, Tommy Riediger 2412359)
+"""
 from unittest import main, TestCase
 from first_steps import add, subtract
 
