@@ -1,3 +1,6 @@
+"""
+Numerik Wintersemester 22/23 (Jeffrey Bukieda und Tommy Riediger)
+"""
 def add(a, b):
     return a + b
 
